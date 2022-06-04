@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-soliman-624544176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-soliman-624544176/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//14661434/ahmed-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/14661434/ahmed-soliman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14661434/ahmed-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14661434/ahmed-soliman" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedmsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedmsoliman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedmsoly98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedmsoly98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmedsolimanpts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedsolimanpts/" height="30" width="40" /></a>
