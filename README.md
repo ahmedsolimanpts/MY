@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ML , Neural Networks , SQL , NLP**
 
-- 📫 How to reach me **ahmedmsoly98@gmail.com**
+- 📫 How to reach me **ahmedmohamedsoliman98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
