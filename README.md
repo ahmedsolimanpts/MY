@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Soliman</h1>
-<h3 align="center">A Data scientist , AI Engineer from Egypt</h3>
+<h3 align="center">A Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **NLP , Web Scraping , Pytorch**
-
-- 💬 Ask me about **scikit-learn , Keras , ML , Neural Networks**
+- 💬 Ask me about **ML , Neural Networks , SQL , NLP**
 
 - 📫 How to reach me **ahmedmsoly98@gmail.com**
 
