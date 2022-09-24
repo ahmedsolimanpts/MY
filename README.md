@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed Soliman</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
 <h3 align="center">A Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working as **Freelancer**
