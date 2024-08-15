@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 💬 Ask me about **ML , Neural Networks , SQL , NLP**
+- 💬 Ask me about **ML , Neural Networks , SQL , NLP , BackEnd , DataBase , Data PipeLine**
 
 - 📫 How to reach me **ahmedmohamedsoliman98@gmail.com**
 
